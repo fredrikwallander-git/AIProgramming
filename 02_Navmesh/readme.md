@@ -70,7 +70,7 @@ A patrol system needs to know where to go and when to move to the next point. At
 - A way to track which waypoint is current
 - A way to trigger the next move when the current one finishes
 
-The `Event On Move Completed` event in the AI Controller fires when a movement request ends, either successfully or because it was interrupted. This is the natural place to decide what to do next.
+A `Custom Event` in the AI Controller fires when a movement request ends, either successfully or because it was interrupted. This is the natural place to decide what to do next.
 
 Think about how to structure this before you start. What data does the controller need to store? How do you know which point to move to? How do you loop back to the start after reaching the last point? How do you avoid the agent standing still permanently if a move fails?
 
