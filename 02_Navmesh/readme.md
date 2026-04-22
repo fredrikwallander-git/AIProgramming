@@ -1,4 +1,4 @@
-﻿# Day 2 - Navigation Mesh and the AI Controller
+﻿# 02 - Navigation Mesh and the AI Controller
 
 Next we will set up the two systems that everything else in this course builds on: the Navigation Mesh that defines where agents can walk, and the AI Controller that drives a Pawn autonomously. By the end of the day your scene should have a player character and at least one AI agent moving purposefully through the level.
 
