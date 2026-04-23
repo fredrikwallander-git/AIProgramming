@@ -176,12 +176,12 @@ Then edit the file with a text editor (notepad), VS or Rider.
 
 ```
 # Unreal build output
-Binaries/
-Build/
-Intermediate/
-Saved/
-DerivedDataCache/
-FileOpenOrder/
+[UNREAL_PROJECT_FOLDER]/Binaries/
+[UNREAL_PROJECT_FOLDER]/Build/
+[UNREAL_PROJECT_FOLDER]/Intermediate/
+[UNREAL_PROJECT_FOLDER]/Saved/
+[UNREAL_PROJECT_FOLDER]/DerivedDataCache/
+[UNREAL_PROJECT_FOLDER]/FileOpenOrder/
 
 # Visual Studio
 .vs/
