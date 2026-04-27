@@ -6,6 +6,8 @@ Today covers three things: getting comfortable in the Unreal editor, writing you
 
 > **Warning**: Before you go ahead and create a project, make sure you activate Git LFS on the repository, please read the Git LFS section in this doc first.
 
+[Click to jump to Git LFS section](#setting-up-git-lfs-for-unreal)
+
 ---
 
 ## The Unreal Editor
